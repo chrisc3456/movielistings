@@ -13,3 +13,7 @@ Example Android application, written in Kotlin, to retrieve and display lists of
 * Repository pattern
 * RecyclerView (including nested scrolling)
 * CardView
+
+
+![screenshot](https://github.com/chrisc3456/movielistings/blob/master/screenshot_main.png)
+![screenshot](https://github.com/chrisc3456/movielistings/blob/master/screenshot_movie.png)
